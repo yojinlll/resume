@@ -29,11 +29,9 @@ email: yojin0623@foxmail.com
 
 - 熟练使用 **HTML5** 及 **CSS3** 常用语法，能够高度还原 UI 视觉稿
 
-- 熟悉 **ES6** 的常用语法
+- 熟悉 **JavaScript** 语言，熟练使用 **ES6** 常用语法
 
 - 了解浏览器渲染过程及前端常用的性能优化策略
-
-- 具备基本的 Web 安全知识 ( **XSS / CSRF** )
 
 - 熟悉 PC 与移动端的开发与适配，了解微信小程序开发
 
@@ -60,7 +58,7 @@ email: yojin0623@foxmail.com
   - 项目中使用 Bootstrap UI， 结合需求对组件进行二次封装
   - 对接后端数据，合理使用本地缓存对内容显示进行优化。
   - 同时负责 BAPBET 后台管理的前端开发。
-  - 因活动需求赶进度时，参与后端接口的开发，根据需求进行细微调整。
+  - 在活动需求赶进度时，也有根据需求对后端接口进行细微调整。
   
   [[链接](https://www.bap.bet/home)]
   [[相关](https://www.dapp.com/app/bapbet)]
@@ -75,7 +73,7 @@ email: yojin0623@foxmail.com
   
   - React/Webpack
   
-  使用 React 完成常见前端组件的设计与开发，无其他依赖，并使用 Jest 编写了部分单元测试，并且在 Circle CI 上进行自动化测试。
+  使用 React 完成常见前端组件的开发，无其他依赖，并使用 Jest 编写了部分单元测试，并且在 Circle CI 上进行自动化测试。
 
   [[链接](https://yojinlll.github.io/miro-react/docs#/guide)]
 
