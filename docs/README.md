@@ -55,13 +55,13 @@ email: yojin0623@foxmail.com
 
 <ProjectCard image="/projects/bapbet.jpg" hideBorder=true>
 
-  **BAPBET**  - (Meteor/Vue/Koa)
+  **BAPBET**
 
   BAPBET 是基于区块链公平技术的跨链娱乐平台。 它支持 EOS，TRX，ETH，USDT，BTC 和 其他加密货币。 当前游戏包括百家乐，德州扑克，骰子，骰宝，幸运777，二十一点，斗牛等。Sportbet，Live Casion 也将陆续推出。
 
-  - BAPBET 项目由 Meteor 全栈框架开发，前端使用 Vue，后端使用 Koa。
+  - BAPBET 项目由 **Vue** 全家桶开发。
   - 独立负责该项目，按设计图稿完成需求和适配移动端。
-  - 项目中使用 Bootstrap UI， 结合需求对组件进行二次封装
+  - 项目中使用 **Bootstrap UI**， 结合需求对组件进行二次封装
   - 对接后端数据，合理使用本地缓存对内容显示进行优化。
   - 同时负责 BAPBET 后台管理的前端开发。
   - 在活动需求赶进度时，也有根据需求对后端接口进行细微调整。
