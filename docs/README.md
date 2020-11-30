@@ -3,7 +3,7 @@ pageClass: home-page
 # some data for the components
 
 name: 劳业锦
-profile: /profile1.jpg
+profile: /profile3.jpg
 
 # socials:
 #   - title: github
@@ -25,13 +25,19 @@ email: yojin0623@foxmail.com
 
 ## 技术栈
 
-- 熟练使用 **Vue / React**
+- 熟练使用 **Vue** 相关技术栈， 了解 **React Hooks**
 
 - 熟练使用 **HTML5** 及 **CSS3** 常用语法，能够高度还原 UI 视觉稿
 
-- 熟悉 **JavaScript** 语言，熟练使用 **ES6** 常用语法
+- 熟悉 **JavaScript** 语言，熟练使用 **ES6** 常用语法，会用 **TypeScript**
 
-- 了解浏览器渲染过程及前端常用的性能优化策略
+- 熟悉 **AJAX** 相关知识，了解 **HTTP** 协议，能熟练使用 **Promise** 优化项目中各种异步逻辑
+
+- 项目使用过 **Webpack / Parcel** 打包工具，了解前端工程化构建流程。
+
+- 熟悉 **Sass/Less** 等 CSS 预处理器
+
+- 熟悉浏览器渲染过程及前端常用的性能优化策略
 
 - 熟悉 PC 与移动端的开发与适配，了解微信小程序开发
 
