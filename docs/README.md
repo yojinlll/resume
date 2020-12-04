@@ -27,7 +27,7 @@ email: yojin0623@foxmail.com
 
 - 熟练使用 **Vue** 相关技术栈， 了解 **React Hooks**
 
-- 熟练使用 **HTML5** 及 **CSS3** 常用语法，能够高度还原 UI 视觉稿
+- 熟练使用 **HTML5** 及 **CSS3** 常用语法，能高度还原 UI 视觉稿
 
 - 熟悉 **JavaScript** 语言，熟练使用 **ES6** 常用语法，会用 **TypeScript**
 
@@ -98,6 +98,14 @@ email: yojin0623@foxmail.com
 
 </ProjectCard>
 
+<ProjectCard class="toolboox" image="/projects/toolbox.jpg" hideBorder=true>
+
+  **ToolBox**
+  
+  使用百度翻译 API 完成的一个翻译小程序
+
+</ProjectCard>
+
 
 ## 工作经验
 
@@ -148,6 +156,12 @@ email: yojin0623@foxmail.com
     .card-content p
       -webkit-margin-after 0.2em
 
+  .toolboox
+    .card-image
+      img 
+        max-width 160px
+        max-height 160px
+
 @media (max-width: 419px)
   .theme-container.home-page .page
     p, ul, ol
@@ -159,5 +173,11 @@ email: yojin0623@foxmail.com
           width 100%
           max-width 400px
           max-height 150px
+
+    .toolboox
+      .card-image
+        img 
+          max-width 160px
+          max-height 160px
 
 </style>
